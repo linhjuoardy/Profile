@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vash</h1>  
 <h3 align="center">A Tech Explorer from India, Loves exploring new technologies</h3>  
   
-%% - 📝 I regularly write articles on [TNA](TNA)   %%
+
+<!-- 📝 I regularly write articles on [TNA](TNA)    -->
+
   
-- 📫 Reach me **itsmevash@proton.me**  
+- 📫 Reach me **itsmevash@proton.me**
+- 
   
 - 📄 Know about my experiences [TNA](TNA)  
   
