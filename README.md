@@ -19,8 +19,8 @@
 <a href="https://instagram.com/linhjuoardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linhjuoardy" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soon" height="30" width="40" /></a>  
 <a href="https://www.leetcode.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soon" height="30" width="40" /></a>  
-<a href="/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="soon" height="30" width="40" /></a>  
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="40" alt="discord logo" /></a>
+<a href="/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="soon" height="30" width="40" /></a>  &nbsp
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="40" alt="discord logo" /></a> &nbsp
 <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="40" alt="telegram logo" /></a>
 </p>
  	
