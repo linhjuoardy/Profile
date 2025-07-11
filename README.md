@@ -7,11 +7,12 @@
   
 - 📫 Reach me **itsmevash@proton.me**
   
-- 📄 Know about my experiences [TNA](TNA)  
+- 📄 Know about my experiences [Resume](NOT_YET_MADE)  
   
 - ⚡ Fun fact **I love Fiction**  
   
-<h3 align="left">Connect with me:</h3>  
+<h3 align="left"> Socials</h3>
+
 <img align="right" height="175" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFhMnRxdGx4aWNuaWV4dm51amYzN2dtdTN2Nm5lOHB4aXd5bzc0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1IynFUeOif20g/giphy.gif"  />
 <p align="left">  
 <a href="https://linkedin.com/in/om-kumar-39ab62295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kumar-39ab62295" height="30" width="40" /></a>  
@@ -25,9 +26,10 @@
 </p>
  	
 
-
+<br>
   
 <h3 align="left">Languages and Tools:</h3>  
+
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
@@ -52,12 +54,15 @@
 </p>
   
 <br> 
-<div align="center">
+<h3> GitHub Stats</h3>
+<hr>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=linhjuoardy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="100" alt="languages graph"  />
-</div><br>
+</div><br><br>
 
-
-
+### Quote Of The Day 
+<hr>
+  
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&ts=<timestamp>)
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Loda+Bencho+)
