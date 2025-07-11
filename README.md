@@ -60,7 +60,7 @@
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&ts=<timestamp>)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Loda+Bc+)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Loda+Bencho+)
 
 
 
