@@ -4,31 +4,35 @@
 
 <!-- 📝 I regularly write articles on [TNA](TNA)    -->
 
-  
+  <br>
 - 📫 Reach me **itsmevash@proton.me**
   
 - 📄 Know about my experiences [Resume](NOT_YET_MADE)  
   
-- ⚡ Fun fact **I love Fiction**  
+- ⚡ Fun fact **I love Fiction**
   
-<h3 align="left"> Socials</h3>
+- 🐱‍👤 If you ever need a help in your project drop a dm on any of socials 
+  
+<br><h3 align="left">🌐 Socials</h3>
 
 <img align="right" height="175" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFhMnRxdGx4aWNuaWV4dm51amYzN2dtdTN2Nm5lOHB4aXd5bzc0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1IynFUeOif20g/giphy.gif"  />
 <p align="left">  
 <a href="https://linkedin.com/in/om-kumar-39ab62295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kumar-39ab62295" height="30" width="40" /></a>  
-<a href="https://kaggle.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soon" height="30" width="40" /></a>  
 <a href="https://instagram.com/linhjuoardy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linhjuoardy" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soon" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soon" height="30" width="40" /></a>  
-<a href="/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="soon" height="30" width="40" /></a>  &nbsp
+  &nbsp
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="40" alt="discord logo" /></a> &nbsp
 <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="40" alt="telegram logo" /></a>
 </p>
- 	
 
+ <!-- <h3 align="left"> Tech Profiles </h3> WILL BE ADDED LATER
+<a href="https://kaggle.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soon" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soon" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soon" height="30" width="40" /></a>  
+<a href="/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="soon" height="30" width="40" /></a>-->
 <br>
   
 <h3 align="left">Languages and Tools:</h3>  
+
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
